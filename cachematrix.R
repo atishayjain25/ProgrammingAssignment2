@@ -4,7 +4,7 @@
 
 
 ## This function takes a matrix as an input and creates a list object having 4 elements, each of them a function for
-## get, set, getinverse and setinverse.
+## get, set, getinverse and setinverse on the object.
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
